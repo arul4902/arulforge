@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#070A12"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <!-- Forge Geometry / Stylized AF -->
+  <path d="M16 46L26 18H38L48 46H39L36.8 39H27.2L25 46H16ZM29.5 32H34.5L32 23.5L29.5 32Z" fill="#F7FAFC"/>
+  <!-- Glowing Cyan Laser Accent -->
+  <circle cx="48" cy="18" r="4.5" fill="#00D4FF"/>
+  <circle cx="48" cy="18" r="8" fill="#00D4FF" fill-opacity="0.25"/>
+</svg>
